@@ -1,3 +1,11 @@
+//HTML Look Like
+// <!Doctype HTML />
+// <html>
+// <body onLoad="load()">
+// <div id="slider">  </div>
+// <div id="newSlider"> </div>
+// </body>
+// </html>
 class LoadData {
 
     constructor(selector, dataList, defaultIndex) {
